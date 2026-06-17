@@ -1,0 +1,37 @@
+react-projects-showcase/
+│
+├── README.md
+├── package.json
+├── .gitignore
+├── projects/
+│   ├── portfolio-app/
+│   │   ├── README.md
+│   │   ├── package.json
+│   │   ├── public/
+│   │   └── src/
+│   │
+│   ├── ecommerce-ui/
+│   │   ├── README.md
+│   │   ├── package.json
+│   │   ├── public/
+│   │   └── src/
+│   │
+│   ├── chat-app/
+│   │   ├── README.md
+│   │   ├── package.json
+│   │   ├── public/
+│   │   └── src/
+│   │
+│   └── dashboard/
+│       ├── README.md
+│       ├── package.json
+│       ├── public/
+│       └── src/
+│
+├── screenshots/
+│   ├── portfolio-app.png
+│   ├── ecommerce-ui.png
+│   └── dashboard.png
+│
+└── docs/
+    └── setup-guide.md
