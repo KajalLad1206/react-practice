@@ -12,7 +12,7 @@ cd routemate
 npm install react-router-dom
 ```
 
-## What This App Demonstrates
+## What This Practical Demonstrates
 
 - `useNavigate` for programmatic navigation, used in the Contact page to send the user back to `/`
 - `navigate()` for redirect-style routing after a button click or form action
