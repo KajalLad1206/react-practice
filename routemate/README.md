@@ -75,6 +75,10 @@ Builds the app for production in the `build` folder.
 
 Copies the build configuration into your project. This is permanent, so use it only if you need full control.
 
+## Output Screenshot
+
+![RouteMate output](output.png)
+
 ## Notes
 
 This practical is focused on React Router concepts and is a good practice setup for nested routing, redirects, and URL-based state.
