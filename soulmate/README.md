@@ -72,7 +72,7 @@ This is a Tailwind CSS-focused React + Vite practical for the Soulmate app. The 
 
 ## Screenshot
 
-![Soulmate app preview](src/assets/hero.png)
+![Soulmate app preview](output.png)
 
 ## Notes
 
