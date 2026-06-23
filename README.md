@@ -9,7 +9,8 @@ This folder contains all the React practical projects in one place. Open any pro
 3. [Taskmate](taskmate/) - Practical : a task management app that demonstrates state, props, and reusable UI sections.
 4. [Taskmate Add](taskmate-add/) - Practical 5: an extended task app with a form for adding new tasks and handling input values.
 5. [Shopmate](shopmate/) - Practical : a product list app that fetches data from a local JSON server and uses a custom hook.
-6. [RouteMate](routemate/) - Practical 6: a React Router practice app for nested routes, params, query strings, and redirects.
+6. [RouteMate](routemate/) - Practical : a React Router practice app for nested routes, params, query strings, and redirects.
+7. [Soulmate](soulmate/) - Practical : a Tailwind CSS-focused React + Vite project for building a modern soulmate landing page UI.
 
 ## Folder README Links
 
@@ -19,3 +20,4 @@ This folder contains all the React practical projects in one place. Open any pro
 - [taskmate-add/README.md](taskmate-add/README.md)
 - [shopmate/README.md](shopmate/README.md)
 - [routemate/README.md](routemate/README.md)
+- [soulmate/README.md](soulmate/README.md)
