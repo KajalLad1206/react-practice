@@ -1,4 +1,4 @@
-# Soulmate Project
+# Soulmate Practical
 
 This is a Tailwind CSS-focused React + Vite practical for the Soulmate app. The main goal is to showcase how Tailwind utility classes can be used to build a modern and responsive UI.
 
