@@ -77,7 +77,9 @@ Copies the build configuration into your project. This is permanent, so use it o
 
 ## Output Screenshot
 
-![RouteMate output](output.png)
+Here is the output of the RouteMate app:
+
+![RouteMate output screenshot](op.png)
 
 ## Notes
 
